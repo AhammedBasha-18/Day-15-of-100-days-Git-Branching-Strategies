@@ -1,0 +1,19 @@
+Day 15 of 100 Days of DevOps Challenge: Git Branching Strategies
+Overview
+This repository explores Git branching strategies used in DevOps workflows. From the basics of master and feature branches to advanced applications like release and hotfix branches, this guide provides actionable insights for developers and DevOps engineers.
+________________________________________
+Key Concepts
+1.	Master Branch: The stable, production-ready codebase.
+2.	Feature Branches: Isolated branches for development and experimentation.
+3.	Release Branches: Dedicated to testing and final adjustments before deployment.
+4.	Hotfix Branches: Address urgent production bugs.
+________________________________________
+Real-World Examples
+•	Kubernetes employs a robust branching strategy to manage contributions from thousands of developers worldwide.
+________________________________________
+Best Practices
+1.	Maintain branch hygiene by keeping the master branch stable.
+2.	Automate testing with CI/CD pipelines.
+3.	Document branching policies clearly.
+________________________________________
+Feel free to fork this repository and contribute your thoughts or examples!
